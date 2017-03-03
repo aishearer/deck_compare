@@ -1,0 +1,6 @@
+[package]
+name = "deck_compare"
+version = "0.1.0"
+authors = ["Andrew Shearer <ais@aishearer.com>"]
+
+[dependencies]
